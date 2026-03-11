@@ -1,16 +1,18 @@
-id: f4dc578d-3512-4823-960c-4a5e3cc8c677
 name: dancescore
-description: "Upload dance performance to get scored on technique"
+project_scope: main
+project_type: standalone
+description: Upload dance performance to get scored on technique
 tier: prototype
 lane: side-projects
 priority: low
-category: vision
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/dancescore
+repo: "https://github.com/mxn2020/dancescore"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, dance, scoring, vision, performance, feedback]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: f4dc578d-3512-4823-960c-4a5e3cc8c677
